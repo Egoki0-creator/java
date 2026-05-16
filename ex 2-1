@@ -10,7 +10,6 @@ public class Main {
         System.out.println("Grade: " + grade);
     }
 
-    // Method for calculating grade
     public static String getGrade(int score) {
 
         if (score >= 90 && score <= 100) {
