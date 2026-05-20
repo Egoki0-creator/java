@@ -10,7 +10,6 @@ public class Main {
 
     public static void printDayOfWeek(int day) {
 
-
         String dayOfTheWeek = switch (day) {
 
             case 1 -> "Monday";
